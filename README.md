@@ -1,5 +1,5 @@
 ## Challenge
-Develop an simple Bank application following strictly the nine rules below. You should end up with a pretty good Object Oriented Bank application.
+Develop an simple Bank application while following strictly the 9 rules below. You should end up with a pretty good Object Oriented Bank application.
 
 1. Use only one level of indentation per method
 2. Don’t use the else keyword
@@ -12,9 +12,10 @@ Develop an simple Bank application following strictly the nine rules below. You 
 9. Don’t use any getters/setters/properties
 
 ## Bank application
-Here are the different steps you can have to evolve your bank application
+Think of your personnal bank account experience. When in doubt go for the simplest solution.
 
-- Simple bank deposit & withdrawal
-- Transfer between bank customers
-- Printing of statements in the console
-- Filtering for statements
+- Basic account operation (deposit, withdrawal)
+- Transfer to another client in the same bank
+- Account statements (include all operations with date, amount and balance for each)
+- Printing account statements (to console)
+- Statement filters (time period, amount less than/greater than)
